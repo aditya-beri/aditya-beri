@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/aditya-beri-a04386191/">Linkedin</a>
 </p>
 
-I'm a __frontend developer__ ,__Machine Learning Enthusiast__and __technical writer__ based in __India__. I love to write tech blogs on Medium and  I'm ready for discussions and making new projects etc.
+I'm a __frontend developer__ __Machine Learning Enthusiast__and __technical writer__ based in __India__. I love to write tech blogs on Medium and  I'm ready for discussions and making new projects etc.
 
 * 💼 Currently working at [CodeChef-VIT](https://www.codechefvit.com/) [Dcoder](https://dcoder.tech/)<br/>
 * ✍🏻 I wrote tech articles on [Medium](https://medium.com/@beriaditya20) <br/>
@@ -27,5 +27,6 @@ I'm a __frontend developer__ ,__Machine Learning Enthusiast__and __technical wri
 [🔧 Word Vectors and Semantics 🌈](https://towardsdatascience.com/word-vectors-and-semantics-2863e7e55417)
 
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=aditya-beri.aditya-beri)
 
 

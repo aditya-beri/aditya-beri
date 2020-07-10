@@ -14,6 +14,9 @@ I'm a __frontend developer__,__Machine Learning Enthusiast__, and __technical wr
   <img align="center" alt="Meme Studio" src="https://github.com/aditya-beri/aditya-beri/blob/master/pack.png" />
 </p>
 
+
+| [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.egi.eu%2Fuse-cases%2Fscientific-applications-tools%2Fthe-jupyter-notebook%2F&psig=AOvVaw05LVxdixy_3DRN2Tj0-5Cs&ust=1594457520355000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICet6OnwuoCFQAAAAAdAAAAABAD" alt="v logo" width="24">](https://vlang.io/) 
+
 ## My top 3 featured articles on Towards Data Science🏃
 
 [🚀 Stemming vs Lemmatization 🔥](https://towardsdatascience.com/stemming-vs-lemmatization-2daddabcb221)

@@ -11,7 +11,7 @@ I'm a __frontend developer__,__Machine Learning Enthusiast__, and __technical wr
 ## My skills and currently learning 🌟
 
 <p align="center">
-  <img align="center" alt="Meme Studio" src="https://github.com/aditya-beri/aditya-beri/blob/master/pack.png" />
+  <img align="center" alt="Meme Studio" src="https://github.com/aditya-beri/aditya-beri/blob/master/skills.jpeg" />
 </p>
 
 

@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/aditya-beri-a04386191/">Linkedin</a>
 </p>
 
-I'm a __frontend developer__ __Machine Learning Enthusiast__and __technical writer__ based in __India__. I love to write tech blogs on Medium and  I'm ready for discussions and making new projects etc.
+I'm a __frontend developer__Machine Learning Enthusiast__and __technical writer__ based in __India__. I love to write tech blogs on Medium and  I'm ready for discussions and making new projects etc.
 
-* 💼 Currently working at [CodeChef-VIT](https://www.codechefvit.com/) [Dcoder](https://dcoder.tech/)<br/>
+* 💼 Currently working at [CodeChef-VIT](https://www.codechefvit.com/) and [Dcoder](https://dcoder.tech/)<br/>
 * ✍🏻 I wrote tech articles on [Medium](https://medium.com/@beriaditya20) <br/>
 * 📫 Contact me [@aditya-beri](https://www.linkedin.com/in/aditya-beri-a04386191/)
 

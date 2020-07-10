@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/aditya.2.0.7/">Instagram</a>
 </p>
 
-I'm a __frontend developer__Machine Learning Enthusiast and __technical writer__ based in __India__. I love to write tech blogs on Medium and  I'm ready for discussions and making new projects etc.
+I'm a __frontend developer__,__Machine Learning Enthusiast__, and __technical writer__ based in __India__. I love to write tech blogs on Medium and  I'm ready for discussions and making new projects etc.
 
 * 💼 Currently working at [CodeChef-VIT](https://www.codechefvit.com/) and [Dcoder](https://dcoder.tech/)<br/>
 * ✍🏻 I wrote tech articles on [Medium](https://medium.com/@beriaditya20) <br/>

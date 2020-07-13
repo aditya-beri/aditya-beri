@@ -28,7 +28,6 @@ I'm a __frontend developer__,__Machine Learning Enthusiast__, and __technical wr
 ## Contact And Social
 **Where to find me or contact me:**  
 <a href="https://dev.to/adityaberi8"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="5hfT's DEV Profile" height="30" width="30"></a>
-[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social)](beriaditya20@gmail.com)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Adityaberi8)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/aditya-beri-a04386191/)
 [![Follow on Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=Medium&style=social)](https://medium.com/@beriaditya20)

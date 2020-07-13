@@ -32,8 +32,6 @@ I'm a __frontend developer__,__Machine Learning Enthusiast__, and __technical wr
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/aditya-beri-a04386191/)
 [![Follow on Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=Medium&style=social)](https://medium.com/@beriaditya20)
 
-
-
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=aditya-beri.aditya-beri)
 
 
